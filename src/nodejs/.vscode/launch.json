@@ -1,0 +1,18 @@
+{
+    // Utilizar IntelliSense para aprender acerca de los posibles atributos.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos 
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Iniciar programa",
+             "program": "${workspaceFolder}/app.js",
+            // "program": "${workspaceFolder}/userData.js",
+            // "program": "${workspaceFolder}/4. Interacción con el usuario/cards.js",
+            // "program": "${workspaceFolder}/5. Procesamiento de Lenguaje Natural/luisIntents.js",
+            // "program": "${workspaceFolder}/9. text analytics/detectLang.js",
+        }
+    ]
+}

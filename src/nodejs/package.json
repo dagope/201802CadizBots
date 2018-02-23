@@ -1,0 +1,15 @@
+{
+  "name": "botexpenses",
+  "version": "1.0.0",
+  "description": "control expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david gonzalo",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
